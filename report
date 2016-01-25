@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+from app import db_functions
+
+db_functions.add_time()
